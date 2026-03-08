@@ -20,7 +20,7 @@
     <input type="text" placeholder="Enter Address" name="address" id="address" required>
     <br>
 
-    <label for="City"><b>Enter city</b></label>
+    <label for="city"><b>Enter City</b></label>
     <input type="text" placeholder="Enter City" name="city" id="city" required>
     <br>
 
