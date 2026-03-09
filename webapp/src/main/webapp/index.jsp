@@ -24,6 +24,9 @@
     <input type="text" placeholder="Enter City" name="city" id="city" required>
     <br>
 
+    <label for="Company"><b>Enter Company</b></label>
+    <input type="text" placeholder="Enter Company" name="company" id="company" required>
+    <br>
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
