@@ -20,6 +20,10 @@
     <input type="text" placeholder="Enter Address" name="address" id="address" required>
     <br>
 
+    <label for="city"><b>Enter City</b></label>
+    <input type="text" placeholder="Enter City" name="city" id="city" required>
+    <br>
+
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
